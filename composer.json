@@ -1,0 +1,15 @@
+{
+    "name": "doolalos/app",
+    "autoload": {
+        "psr-4": {
+            "Doolalos\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas",
+            "email": "lucas.81.gabriel@gmail.com"
+        }
+    ],
+    "require": {}
+}
