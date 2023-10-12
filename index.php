@@ -20,7 +20,7 @@
     <div id="app"></div>
 </body>
 <!-- Arquivo principal do vuejs -->
-<script type="module" src="./index.js"></script>
+<script type="module" src="./app.js"></script>
 <!-- VUE e VUETIFY -->
 <script src="./resources/vue/vue.global.prod.js"></script>
 <script src="./resources/vue/vue-router.js"></script>
