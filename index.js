@@ -17,7 +17,6 @@ const app = Vue.createApp({
         }
     },
     components:{
-        'main-menu': mainMenu,
     },
     computed: {
         username() {

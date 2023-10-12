@@ -5,6 +5,6 @@ export default {
         }
     },
     template:`
-    <h1>{{homepage}}</h1>
+    <h1>{{data}}</h1>
     `
 }
