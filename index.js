@@ -1,8 +1,8 @@
 // Pages
-
+import home from './components/pages/home.js'
 
 const routes = [
-    //{ path: '/', redirect: '/pesquisa'},
+    { path: '/', component: home},
 ]
 
 const router = VueRouter.createRouter({
